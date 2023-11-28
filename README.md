@@ -2,7 +2,7 @@
 
 Here is the setup that i'am using currently due a lot of people asking 🌞
 
-## Installs
+## Tools
 
 ### Font
 - [JetBrainsMono Nerd Font](https://www.nerdfonts.com/font-downloads)
