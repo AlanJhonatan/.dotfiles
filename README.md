@@ -1,5 +1,4 @@
-# My Stack
-
+# My `.dotfiles` 🫶
 Here is the setup that i'am using currently due a lot of people asking 🌞
 
 ## Tools
