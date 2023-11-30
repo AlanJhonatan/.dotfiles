@@ -1,8 +1,7 @@
-# My Stack
-
+# My `.dotfiles` 🫶
 Here is the setup that i'am using currently due a lot of people asking 🌞
 
-## Installs
+## Tools
 
 ### Font
 - [JetBrainsMono Nerd Font](https://www.nerdfonts.com/font-downloads)
@@ -24,3 +23,13 @@ Here is the setup that i'am using currently due a lot of people asking 🌞
 ### Git Client
 - Using [`tig`](https://github.com/jonas/tig) 🫶
 
+## Screenshots
+
+**Default terminal view**
+![image](https://github.com/AlanJhonatan/my-stack/assets/41169099/0de94fb4-a55a-4230-8207-76d1dba2d055)
+
+**Terminal in project directory**
+![image](https://github.com/AlanJhonatan/my-stack/assets/41169099/a4c525bc-39fd-4d5b-b45c-e9643853b8e2)
+
+**Sample Nvim view with open project (w/ eslint)**
+![image](https://github.com/AlanJhonatan/my-stack/assets/41169099/501ffdf1-9790-4076-874a-17fbf6f11ce2)
